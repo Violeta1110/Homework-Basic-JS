@@ -20,3 +20,4 @@ function caolculateZodiacSign(year) {
 }
 
 console.log(caolculateZodiacSign(year));
+
